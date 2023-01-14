@@ -82,8 +82,10 @@ export default {
             this.msg = `Pedido excluído com sucesso`
             //limpar mensagem
             setTimeout(()=> this.msg = "", 3000);
-
             this.getPedidos();
+            
+
+            
         },
 
         async updateBurger(event, id){ // passa o evento e id como parametro

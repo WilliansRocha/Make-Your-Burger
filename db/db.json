@@ -81,17 +81,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "Willians",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Em produção",
-      "id": 1
-    }
-  ]
+  "burgers": []
 }
